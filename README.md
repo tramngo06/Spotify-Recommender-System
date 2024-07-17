@@ -1,2 +1,2 @@
 # MUSIC RECOMMENDATION SYSTEM FOR SPOTIFY. 
-![image](https://github.com/user-attachments/assets/610fb40b-5b22-47cc-b177-b8a9690f964
+![image](https://github.com/user-attachments/assets/994be4f6-f629-4efe-8c2c-514cae0e556a)
